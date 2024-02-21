@@ -1,4 +1,4 @@
-# Biases and Abuses in Data
+# Biases in data and models.
 
 This repository explores the topic of biases and abuses in data and aims to study their effects on various experiments. The experiments will be conducted using Jupyter Notebook to analyze and understand the impact of biases in data and find ways to minimize them.
 
