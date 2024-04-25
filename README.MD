@@ -3,16 +3,31 @@
 This repository explores the topic of biases and abuses in data and aims to study their effects on various experiments. The experiments will be conducted using Jupyter Notebook to analyze and understand the impact of biases in data and find ways to minimize them.
 
 ## Tech Stack
-
+1. Keras with TensorFlow
+2. Numerical Python Stack
+3. Word2Vec
+4. Scikit-Learn
+5. Jupyter
 
 ## Datasets
 
+1. [Cat Vs Dog](https://www.kaggle.com/datasets/karakaggle/kaggle-cat-vs-dog-dataset)
+2. [Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
+3. [Statlog - German Credit Data](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data)
 
 ## Introduction
 
 In today's data-driven world, it is crucial to be aware of the biases and abuses that can exist within datasets. Biases can arise from various sources, such as data collection methods, sampling techniques, or even human judgment. These biases can lead to skewed results and unfair outcomes, impacting decision-making processes and perpetuating inequalities.
 
 The purpose of this project is to shed light on the presence of biases and abuses in data & trained model and explore ways to mitigate their effects.
+
+## Topics to explore
+
+1. Bias in Natural Language Processing models.
+2. Convolutional Neural Network Manifold Learning.
+3. Global Black-box Explanation.
+4. Local Black-box Explanation.
+5. FairML
 
 ## Biases in Data
 
@@ -39,4 +54,4 @@ Please refer to the Jupyter Notebook files in this repository for detailed exper
 
 ## Insights
 
-NOTE: COMPLETE AFTER I HAVE CONCLUDED THE EXPERIMENTS.
+In the form of Critical Questions/Discussions at the end of each Notebook.
